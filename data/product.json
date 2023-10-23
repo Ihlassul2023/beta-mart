@@ -1,0 +1,58 @@
+[
+  {
+    "name": "kecap botol abc",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "10000",
+    "stok": 1
+  },
+  {
+    "name": "kecap botol abc",
+    "category": "makanan",
+    "rack": "rak2",
+    "price": "10000",
+    "stok": 1
+  },
+  {
+    "name": "kecap botol bango",
+    "category": "makanan",
+    "rack": "rak2",
+    "price": "10000",
+    "stok": 1
+  },
+  {
+    "name": "ikan kaleng la fonte",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "10000",
+    "stok": 1
+  },
+  {
+    "name": "caviar",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "100000",
+    "stok": 4
+  },
+  {
+    "name": "caviar",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "100000",
+    "stok": 4
+  },
+  {
+    "name": "caviar",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "100000",
+    "stok": 4
+  },
+  {
+    "name": "caviar",
+    "category": "makanan",
+    "rack": "rak1",
+    "price": "100000",
+    "stok": 4
+  }
+]
